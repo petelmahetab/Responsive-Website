@@ -267,3 +267,31 @@ padding: 5% 5%;
     transform: scale(1);
     text-decoration: underline;
 }
+
+.elements{
+    display: flex;
+    color: white;
+    justify-content: space-between;
+    padding: 20px 50px;
+    margin-bottom: 10px;
+    position: relative;
+}
+.start{
+    display: flex;
+    gap: 50px;
+}
+.start h4{
+    font-weight: 300;
+}
+.list{
+    display: flex;
+    list-style-type: none;
+    gap: 50px;
+    text-transform: uppercase;
+}
+
+.list:hover{
+    transition: 0.3 ease-in;
+  
+    text-decoration: underline;
+}

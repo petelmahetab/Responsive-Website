@@ -295,3 +295,12 @@ padding: 5% 5%;
   
     text-decoration: underline;
 }
+
+@media (max-width: 767px) {
+    #Nav-bar{
+      padding: 10px 20px;
+     transition: all 0.3s ease-out;
+  }
+  }
+  
+  

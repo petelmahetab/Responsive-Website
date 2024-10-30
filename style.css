@@ -301,6 +301,31 @@ padding: 5% 5%;
       padding: 10px 20px;
      transition: all 0.3s ease-out;
   }
+  #heading{
+      padding: 50px 0px;
+     font-size: 8vw;
+     left: 0;
+    line-height: 1.8;
+    display:block;
+    overflow: hidden;
+  
+  }
+  
+  #heading #id{
+      font-size: 13px;
+      padding-right:70px;
+  }
+  .lower-part h3{
+      font-size: 13px;
+      font-weight: 200;
+  }
+  .footer-text {
+    display: flex;
+   padding-right: 10px;
+  }
+  .two-icons .circles{
+      padding-right: 20px;
+  }
   }
   
   
